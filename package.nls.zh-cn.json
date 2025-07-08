@@ -1,0 +1,13 @@
+{
+  "copelot.command.openModelPicker": "选择模型",
+  "copelot.description": "询问 Copilot",
+  "copelot.editor.description": "编辑选择中的代码",
+  "copelot.edits.description": "编辑工作区中的文件",
+  "copelot.agent.description": "在代理模式下编辑工作区中的文件",
+  "copelot.workspace.fix.description": "对所选中的代码中的问题进行修复建议",
+  "copelot.workspace.explain.description": "说明活动编辑器中代码的工作原理",
+  "copelot.workspace.tests.description": "为所选代码生成单元测试",
+  "copelot.submenu.copilot.label": "Copilot",
+  "copelot.workspace.description": "询问工作区",
+  "copelot.workspace.sampleRequest": "如何生成此项目?"
+}

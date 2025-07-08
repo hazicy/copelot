@@ -1,0 +1,6 @@
+{
+  "copelot.edits.description": "Edit files in your workspace",
+  "copelot.command.openModelPicker": "pick model",
+  "copelot.editor.description": "编辑选择中的代码块",
+  "copelot.submenu.copilot.label": "Copilot"
+}

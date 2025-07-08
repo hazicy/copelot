@@ -1,0 +1,25 @@
+{
+	"compilerOptions": {
+		"module": "NodeNext",
+		"target": "ES2022",
+		"lib": [
+			"ES2022"
+		],
+		"sourceMap": true,
+		"rootDir": "src",
+		"strict": true,
+		"skipLibCheck": true,
+		"forceConsistentCasingInFileNames": true,
+		"jsx": "react",
+		"jsxFactory": "vscpp",
+		"jsxFragmentFactory": "vscppf",
+		"resolveJsonModule": true,
+	},
+	"include": [
+		"src/**/*",
+		"types/**/*"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}
